@@ -1,0 +1,273 @@
+groupid	url	title	review_id	sentence_id	text	label
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	1	Nemam dovoljno rijeci hvale za ovog covjeka.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	2	Nakon zaista losih i traumaticnih iskustava zbog kojih sam ponovni posjet maksilofacijalnom kirurgu odgadjala preko desetljeca, otisla sam kod dr. Luksica na preporuku poznanice i vjerujem da je to bio najbolji potez za moje mentalno stanje i suocavanje s vlastitim traumama.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	3	Napokon doktor kakav bi svaki doktor trebao biti, profesionalac kod kojeg se osjecate kao osoba, a ne samo kao jedan pacijent u nizu.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	4	Usprkos brojnim pacijentima i velikoj guzvi tijekom svakog dolaska, nikad nisam osjetila zurbu i nezainteresiranost.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	5	Toplina pristupa i osjecaj da vas netko zaista slusa i cuje su toliko potrebni u trenucima kada svoje lice odlucite podvrgnuti jos jednoj operaciji u nizu, a da vise niste ni sami svjesni mozete li se s tim nositi.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	6	Hvala doktoru Luksicu sto mi je vratio vjeru u lijecnike i ljude, i moram takodjer pohvaliti cijelo osoblje odjela maksilofacijalne kirurgije KB Dubrava, kao i lijecnikov pristup u radu sa studentima koji su bili prisutni tijekom svakog mog dolaska.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	7	Provesti po pet sati u autobusu u jednom smjeru nekoliko puta da bih dosla na preglede i kontrole nije bio nikakav problem jer sam vec nakon prvog susreta znala da sam u dobrim rukama i da nema sanse da iz ordinacije izidjem osjecajuci se kao sto sam se previse puta osjecala kod drugih lijecnika - malom i nebitnom.	positive
+4	https://najdoktor.com/Ivica-Luk%C5%A1i%C4%87/d10194	Ivica Lukšić	2	8	Apsolutne preporuke za lijecnika koji je prije svega Covjek, a onda tek pravi profesionalac i carobnjak u svojoj struci.	positive
+4	https://najdoktor.com/zvonimir-orsanic/d18618	Zvonimir Oršanić	7	1	Doktor po drugi put odbija pregled, odbija ljecenje i davanje uputnice na temelju vec uradjenih nalaza koji su izuzetno losi.	negative
+4	https://najdoktor.com/zvonimir-orsanic/d18618	Zvonimir Oršanić	7	2	Uzasno neljubazan i nezainteresiran za bilo kakvo pitanje i brigu pacijentice.	negative
+4	https://najdoktor.com/zvonimir-orsanic/d18618	Zvonimir Oršanić	7	3	Izbjegavajte ga u sirokom luku!	negative
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	19	1	Izvrstan liječnik, pedantan ginekolog, precizan specijalist s izraženom pristupačnosti pacijentima.	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	19	2	Zahvalni smo na svakom profesionalnom savjetu, posvećenosti i ljubaznosti.	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	22	1	Doktor Finderle je izvrstan liječnik, dijagnostičar i ima predivan odnos s pacijentima.	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	22	2	Precizan, pedantan, prisupačan, ljubazan, ne žuri, posveti se u potpunosti pacijentu.	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	22	3	Tko nije zadovoljan s svojim ginekologom s dr. Finderle sigurno neće pogriješiti!!!	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	33	1	Ja bi sve dala da ga mogu imat kao svog ginekologa ali su mi rekli da neuzima više pacijente.	positive
+4	https://najdoktor.com/aleks-finderle/d12654	Aleks Finderle	33	2	Nažalost.	negative
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	41	1	Dr. Božić mi je 2016 spasio život.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	41	2	Nedavno sam ga srela i sjeća se svakog detalja operacije.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	41	3	Jako predan svom poslu, uljudan i profesionalan.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	41	4	Njegov osmijeh na licu mi puno značio ?	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	41	5	ČOVJEK s velikim Č.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	1	Prof.dr.Božić najdivniji je doktor koji me je doslovno spasio svojom stručnošću i izrazitom profesionalnošću prilikom obavljanja operacije LS kralježnice u studenom 2016.godine.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	2	Posebno bi istaknula njegov trud da detaljno objasni svaki korak vezan uz obavljanje operacije kao i potpunu podršku i stručnu pomoć nakon obavljenog operativnog zahvata u vidu pružanja potpore u odabiru postoperativne rehabilitaciju.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	3	Doktore, nema riječi kojima bi Vam zahvalila na svemu.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	4	Doslovno ste mi dali novi,bolji,kompletniji život nakon uspješno obavlkene operacije kralježnice.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	5	Za svaku pohvalu je njegov pristup pacijentu.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	61	6	Dostupan za sva pitanja,objašnjenja i savjete u svako doba dana.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	1	Izuzetno pristupačan, srdačan i neposredan doktor.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	2	Odličan dijagnostičar.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	3	Nije mu nimalo teško objasniti problem koji muči pacijenta i kako ga najbolje riješiti.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	4	Sve ga se može pitati bez ustručavanja.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	5	Vrlo profesionalan i stručan.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	6	ulijeva povjerenje .	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	7	Kod njega se svaki pacijent osjeća kao da je poseban.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	67	8	Za svaku pohvalu i preporuku !!!	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	68	1	Vrhunski specijalist, bež žurbe i nervoze objasniti će vam koji je problem i koji su najbolji načini i metode rješavanja dotičnog problema.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	68	2	Srdačan, pristupačan, stručan, uvijek na raspolaganju.	positive
+4	https://najdoktor.com/boris-bozic/d9913	Boris Božić	68	3	Glavna sestra u neurokirurškoj poliknilnici vrlo opuštena i srdačna.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	79	1	Prijateljski odnos sa svojim pacijentima.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	79	2	Čovjek prepun znanja i sigurnosti koju je opravdao.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	79	3	Operacija bez problema i komplikacija.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	79	4	Doktor koji je riješio moje probleme.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	85	1	Dr Corluka me je uistinu spasio i zahvaljujući vrijednom , pozitivnom, čovjekoljubljubnom doktoru veliko hvala	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	85	2	Takodjer veliko hvala pa postoperativnoj njezi i brizi.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	85	3	Dr Corluka je napravio nezamislivi operativni zahvat i na tome samo imam rijeci pohvale i svoje predivno iskustvo prenosim dalje prijateljima kod nas i u inozemstvu ( najviše u JAR-u )	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	85	4	VELIKO HVALA DOKTORU I SAMO TAKO NAPRIJED	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	97	1	Doktor Ćorluka iznimno profesionalan i stručan, pristupačan i jasan u komunikaciji.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	97	2	Svaka preporuka za svima koji se nađu u problemu i nisu sigurni što je najbolji odabir!	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	1	Stručnjak u svom poslu.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	2	Ljubazan i jasan u komuniciranju.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	3	Prema pacijentima pristupa pažljivo.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	4	Strpljiv u odnosu sa nestrpljivima i nervoznima pacijentima.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	5	Pri susretu djeli optimizam i smirenje.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	6	Kulturan i etičan u komuniciranju.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	7	Za pregled ne čeka se dugo.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	8	Osoblje je profesionalno, ljubazno, etičko, strpljivo i ima razumjevanja za pacijente.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	101	9	Velika i skrena zahvala doktoru Stipi Ćorluki i osoblju za moje lječenje i ozdravljenje.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	104	1	Sve pohvale za Dr.Ćorluku,stručnost,ljubaznost...	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	104	2	Objasni sve što vam treba,kako treba i kako dalje nastaviti što se tiče bolesti, operacije, oporavka, terapije...	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	104	3	Simpatičan,ozbiljan u vezi sa svojim poslom i pristup prema svemu.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	105	1	Kod doktora Čorluke sam bila više puta od operacije do danas.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	105	2	Mogu reći sve najbolje o njemu kao osobi i kao liječniku.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	122	1	Nakon strahovitih bolova zbog ekstruzije diska u lumbalnom dijelu kralježnice, konačno sam došla kod ovog velikog stručnjaka, vrhunskog liječnika i iznad svega čovjeka(što je danas rijetko) koji je prepoznao moju muku i bol i pakao kroz koji sam prolazila.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	122	2	Učinjena je hitna operacija i početak mog novog života bez boli.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	122	3	Zahvaljujem se dr.Stipe Ćorluki na razumijevanju, brzoj reakciji i mom novom životu bez boli.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	122	4	Svakom tko ima problema s kralježnicom preporučam da se obrati dr. Stipe Ćorluki jer osim što je vrhunski stručnjak u svom poslu, dr. Čorluka je izrazito srdačan, susretljiv, strpljiv i temeljit.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	122	5	Hvala Vam dr. Ćorluka	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	141	1	Velike pohvale za vrhunskog stručnjaka,velikog čovjeka.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	141	2	Izuzetno stručan,empatican.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	141	3	Moj problem,sa kojim sam se mučio više godina,riješio je jednom operacijom.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	141	4	Prošle su tri godine,brzo sam se vratio normalnom životu.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	141	5	Veliko hvala doktoru!!	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	149	1	Doktor Stipe prije svega jako pristupačan i čovjek dobrog srca.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	149	2	Najbolja kombinacija stručnosti u svom poslu i ljudske dobrote.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	1	Dr. Ćorluka, prije svega čovjek velikog srca, a onda stručnjak što se tiče kralježnice.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	2	Nakon što sam obišla dva neurokirurga, koji nisu vidjeli uopće u čemu je problem, dr. Ćorluka je postavio dijagnozu odmah.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	3	U mjesec dana mog boravka, i dvije operacije, on se toliko angažirao da ja nemam prikladnih riječi kojima bih opisala tog doktora, tog čovjeka...	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	4	Riješio me bolova, mjesec dana nakon zadnje operacije ja sam doslovno preporođena.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	5	Zaista ga preporučujem, svima onima koji imaju bolove i gube nadu jer su zaista na pravom mjestu, i ako će se itko potruditi oko njih, to je dr. Ćorluka.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	6	Njemu pacijent nije samo broj, on sebe cijelog unese da bih pomogao.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	7	Ja mu se od ❤️ zahvaljujem, presretna sam što sam ga našla...	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	8	Mnogi bi se mogli ugledati na njega.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	9	Ponosna sam što je moj doktor.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	10	Isto tako i osoblje odijela, svi koji tamo rade, svi do jednog, čine prekrasan tim.	positive
+4	https://najdoktor.com/dr-stipe-corluka/d18436	Stipe Ćorluka	151	11	Veliko, najveće im hvala na svemu...	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	176	1	Pozdrav svima.. Po komentarima vidim da zene nisu zadovoljne doktorom koji je dosao na mjesto dr Lenije.	neutral
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	176	2	Koga u Zg izabratiti od doktorica, koje primaju nove pacijente, jer ozbiljno razmisljam o promjeni doktora.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	176	3	Hvala	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	214	1	Osim ne poštivanja naruđbi, doktor je solidan.	mixed
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	1	Nikad više kod ovog doktora na pregled!!!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	2	Javila sam se kod njega nakon što sam u 10.tj. trudnoće primjetila krvarenje.	neutral
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	3	Čekala sam 2, 5 h na pregled, da bi me on bahato pitao da li znam da 50% trudnica krvari u prvom tromjesečju.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	4	Nakon uzv pregleda mi je nonšalantno rekao da ne vidi otkucaje srca.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	5	Nakon toga me ostavio da ga čekam jer je morao otići zapaliti.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	6	Usred pregleda je pozvao sestru da bi se na nju izderao zbog čega vani ima toliko pacijentica!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	7	Usred pregleda?!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	8	Možda zato što je u 3 sata uspio pregledati 3 žene!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	9	U situaciji u kojoj sam se našla, najgora moguća situacija za trudnicu, malo ljudskosti s njegove strane nebi škodilo.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	10	Da ne spominjem njegove ljigave dosjetke, poglede i ruke na mojim koljenima!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	11	Odvratno!	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	222	12	Jedine pohvale idu sestri Lei!!	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	224	1	predivna osoba, zadrzi ti optimizam u najgorim situacijama.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	224	2	velika preporuka!	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	1	Nisam baš sigurna što da mislim o njemu.	mixed
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	2	Do sada sam samo 2x bila i uopće mi nije ostavio dobar dojam.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	3	I sama sam medicinske struke, tako da me nekoliko stvari izuzetno smeta.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	4	Kao prvo predugo se čeka.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	5	Doktor koji radi u susjednoj ambulanti nekoliko puta isprazni čekaonicu dok se Franičević još prešetava domom zdravlja u civilki i nije ni krenuo primati pacijentice.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	6	Obraćanje sa ti mi nije ni najmanje profesionalno kao ni razgovaranje kao da smo na placu, a ne u ambulanti.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	7	Indirektno omalovažavanje stručnosti drugih kolega i kategoriziranje kolegica koje rade u Obiteljskoj medicini kao isfrustriranih histeričnih kokoši mi također nije po volji.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	8	Pipkanje moje noge za vrijeme pregleda je u najmanju ruku neumjesno.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	9	Nije me se dojmio kao nestručan liječnik, samo ima grozno neprofesionalan pristup na kojem bi morao proraditi.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	252	10	Ako se u skorije vrijeme nešto ne promjeni mijenjam ginekologa jer se u njegovoj ordinaciji ne osjećam ugodno.	negative
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	1	Prvih nekoliko puta sam čekala oko tri sata, iako sam bila naručena, ali za vrijeme zadnjeg posjeta sam čekala 5 minuta.	mixed
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	2	Moja prijateljica je također tijekom zadnjeg posjeta čekala minutu, tako da sam sklona vjerovati da su se napokon uspjeli organizirati i svesti vrijeme čekanja na minimum.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	3	Sestra Lea je stvarno predivna, susretljiva i uvijek dobre volje.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	4	Iako je vječno pretrpana poslom, uvijek će naći vremena da porazgovara s vama o nečemu što vas muči.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	5	A doktor je fantastičan.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	6	Kada uđete unutra osjećate se kao princeza.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	7	Drag je i duhovit, zainteresiran i poklanja vam svu pažnju.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	8	Ne ustručava se odvojiti vremena da vam temeljito objasni svaku sitnicu vezanu za vaše stanje, a ponekad vam možda i ispriča neki vic.	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	255	9	Sve u svemu, jako dobra kombinacija sestre i doktora, iznimno sam zadovoljna i nadam se da ću do kraja života ostati kod njih	positive
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	266	1	Poštovani, da li bi mi itko mogao raći prima li dr. Davor Franičević nove pacijentice ( socijalno ).	neutral
+4	https://najdoktor.com/davor-franicevic/d16194	Davor Franičević	266	2	Srdačan pozdrav.	positive
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	291	1	kako sam rekla,23.4.dijete mi je operirao prof.lajtman.sve je bilo ok,a to je najbitnije...	positive
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	291	2	jedino je malo "cudan" prilikom razgovora,nema takta,ne objasni roditelju što je sve moguće nakon operacije,ali to mu je oprošteno,jer nije bitno kako priča,bitnije je da zna svoj posao...	mixed
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	291	3	hvala mu još jednom na svemu...	positive
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	299	1	doktor, a uz to i profesor je totalno nezainteresiran za pacijenta.	negative
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	299	2	uopće ga nije briga za tegobe koje pacijent navodi, i na pitanje zašto je neka tegoba prisutna, on hladno odgovara neznam, i još 2 puta to ponovi i kaže ako niste zadovoljni odite u drugu ustanovu na pregled.	negative
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	299	3	a još da spomenem da se iz dotičnog širio neugodan miris češnjaka i alkohola.	negative
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	299	4	Jedan od najneugodnijih pregleda u životu.	negative
+4	https://najdoktor.com/zoran-lajtman/d8426	Zoran Lajtman	299	5	žalosno da takvi doktori zauzimaju7  mijesta doktorima koji bi htjeli raditi, jer ovaj doktor je očito već odavno izgubio volju za svojim pozivom.	negative
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	314	1	Jedan jedini....dr Šain.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	314	2	Pedantan, savršena preciznost i dobar čovjek.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	314	3	Sa potpunim povjerenjem možete se prepustiti u njegove ruke.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	325	1	Izuzetan profesionalan rad uz očito veliko znanje i iskstvo , te pažljiv pristup svakom zahvatu uz objašnjenje o postupku.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	325	2	U svakom pogledu iskrena preporuka.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	1	Zahvaljujuci dr.Sainu vise nemam averziju odlaska zubara.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	2	Osim sta je strucan jako je obziran i strpljiv.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	3	Unatoc dugim terminima jako pazi da sto manje boli, objasni sta i zasto nesto radi...	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	4	Definitivno sve pohvale i preporuke kako za dr.Saina tako i za ostatak osoblja koje je jako susretljivo, ljubazno i profesionalno.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	5	Unatoc sto nisam iz Rijeke nije mi problem se dugo voziti kada znam da sam u rukama dr.Saina.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	335	6	Hvala i vidimo se opet.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	346	1	Od prvog trenutka kad sam ušla upoznala dr. Šaina, znala sam da sam na pravom mjestu.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	346	2	Stručnost, ljubaznost a najviše strpljenje koje pokazuje prema svojim pacijentima čine ogromnu razliku.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	346	3	Svaki postupak objašnjava jasno i s puno pažnje, što mi je pomoglo da se osjećam opušteno i sigurno.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	346	4	Osim što je stvarno vrhunski stomatolog, njegov pristup je topao i ljudski.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	346	5	Velika preporuka!	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	348	1	Dr. Bojan Šain je izvrstan stomatolog - stručan, smiren i pristupačan.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	348	2	Vidi se da kontinuirano ulaže u svoje znanje i prati suvremene pristupe u stomatologiji.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	348	3	Zahvaljujući njemu, moj strah od zubara je potpuno nestao.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	348	4	Izuzetno predan svom pozivu i čovjek prije svega.	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	348	5	Preporuke od srca!	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	350	1	Odličan doktor✨ stručan u svom poslu , ugodan kao čovjek, apsolutno preporučujem DR. šaina da bude vaš doktor	positive
+4	https://najdoktor.com/bojan-sain-drmeddent/d22124	Bojan Šain	350	2	sigurna sam da ćete biti više nego zadovoljni.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	1	Profesoru Vukiću došla sam zbog problema s vratnom kralježnicom koje sam godinama zanemarivala.	neutral
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	2	Pogledao je moje nalaze i naručio me na hitnu operaciju.	neutral
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	3	Objasnio mi je uzroke mojih problema, te ukazao na loše prognoze ukoliko se ne odlučim na operaciju.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	4	Osvojio me svojom ljudskošću, pristupačnošću prema malim ljudima, odnosom prema suradnicima.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	5	Operacija je uspješno prošla, čeka me dug oporavak.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	6	Njegov sam dužnik do kraja života.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	7	Spasio me.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	8	Gospodin, doktor, čovjek.....	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	9	Živi u skladu s Hipokratovom zakletvom koju su neke njegove kolege na žalost zaboravile.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	381	10	Ako itko zaslužuje titulu najdoktor to je svakako on.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	1	Ovom predivnom doktoru sam došao po drugo mišljenje.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	2	Nadao sam se da će mi reći da operacija neće biti potrebna i da će sve biti dobro.	neutral
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	3	Zbog straha od operacije sam odlučio da se neću operirati i radije trpjeti bolove, svakodnevna pogoršanja i prihvatiti neizvjesnu budućnost.	neutral
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	4	Doktor mi se potpuno posvetio, pokazao i objasnio snimke, objasnio moju bolest, moju sadašnjost i budućnost, odgovorio na moja laička bespotrebna pitanja.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	5	Sve uz dozu ozbiljnosti po potrebi, ili ljudski smiješak.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	6	I u svega dvadesetak minuta izgovorio sam rečenicu koju nikada nisam mislio da ću izgovoriti, zamolio sam doktora da me operira.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	384	7	Sutra ću rezervirati termin i jedva čekam da mi ovaj divan doktor pomogne!	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	398	1	Zahvalio bi prof. Miroslavu vukicu i svim ostalim djelatnicima neurokirurgije svi ste odlicni...	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	398	2	eto ja sam mislio da necu vise nikad hodat po svojim nogama a sad hod izravnao sam se popravio se govor a prije toga nisam mogao normalno pricat ni hodat vec sam se umorio	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	398	3	lijep pozdrav svima vama	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	398	4	operacija je bila 16.1.2016.	neutral
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	1	Divan doktor i čovjek,pun razumijevanja,ljubaznosti i predan svom poslu.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	2	Meni je operirao 10 sati tumor i spasio oko da ne ostanem slijepa jer je tumor zahvatio sve očne živce.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	3	Dolazio je nekoliko puta dnevno provjeriti moje stanje,razgovarao i sve objasnio iskreno i bez pretjerivanja i laganja.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	4	Strašno iskren i zahvalna sam na preporukama da idem k njemu na zahvat.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	5	Profesionalan,i svaka mu čast i hvala da je ostao u ovoj bijednoj Hrvatskoj i posvetio se našim ljudima.	positive
+4	https://najdoktor.com/miroslav-vukic/d8931	Miroslav Vukić	404	6	Hvala mu od srca što mi je posvetio svaki svoj trenutak!!!!!	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	1	Čitajući ove komentare, pitam se da li ove osobe koje komentiraju i ja idemo kod iste doktorice... Doktorica je jako simpatična, pristupačna, detaljna i ljubazna.	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	2	Problem se rješava kroz komunikaciju te preporuča najbolje za liječenje dijagnoze.	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	3	Čak i ako je bolest prestala, doktorica te rado pozove na još jedan pregled kako bi ustanovila da je sve u redu.	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	4	Jedino zbog čega je dr. Knap-Vojković dobila (4) od mene jest čekanje.	mixed
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	5	U 95% slučajeva, pregled kasni 15 minuta.	negative
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	439	6	No to je po meni i razumno, jer doktorica nema stav 'Okej, dobio si lijekove, sada možeš ići', već se u potpunosti posveti tvom zdravlju i terapiji.	mixed
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	447	1	Stanujem daleko od njezine ambulante ali ne bih je mijenjao ni za onu u mome susjedstvu.	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	447	2	Najbolja je !	positive
+4	https://najdoktor.com/ana-knap-vojkovic/d16452	Ana Knap-Vojković	452	1	nalaze pacijenta uopće ne pogleda a na uipt o mišljenju na nalaz kada je u istom vidljivo da nešto nije u redu vrlo je neljubazna i ne želi objasniti pacijentu o čemu bi se moglo raditi a niti ga šalje na daljnje pretrage.	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	455	1	Cekam vec 3 mjeseca, da mi ocita nalaz...treba li nesto vise jos napisati?	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	455	2	Prbi puta kod gospodina provela sam cijelih 2 min....i sad cekam, mozda se smiluje.	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	1	Dr Bakula me poslao da izvadim tTG radi sumnje na nepodnošenje glutena.	neutral
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	2	U nalazu koji se čeka mjesec dana je pisalo da se tTG nikad ne vadi sam, jer pokazuje lažno negativne rezultate već mora biti u kombinaciji sa IgA.	neutral
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	3	Što znači da sada, da bi obavila test ponovo kako treba, opet moram početi jesti proizvode s glutenom najmanje 8 tjedana i patiti od grčeva, bolova i proljeva.	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	4	Što znači da je naše zdravstvo bacilo novac uzalud za test koji sam prvi napravila jer je neupotrebljiv.	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	5	Zar ne bi jedan vrstan gastroenterolog trebao znati takve stvari?	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	6	Kad sam tražila ponovo uputnicu od doktorice opće prakse za tTG i IgA zajedno, iznenadila se da ju nisam odmah dobila, iako mi je ona ispisala i tu prvu uputnicu prema mišljenju dr Bakule.	negative
+4	https://najdoktor.com/Vinko-Bakula/d16889	Vinko Bakula	463	7	Što reći o kvaliteti našeg zdravstva?!	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	468	1	Cijela ordinacija je vrhunska.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	468	2	Kao nekome sa izrazitom fobijom i problemima sa zubima bilo mi je bitno pronaci strucnjake i bome sam ih pronasla.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	468	3	Popravci, vadenja, implantati - sve je proslo bez puno muke.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	474	1	Sve super bilo!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	474	2	Jako sam zadovoljan sve je proslo kakontreba.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	474	3	Svi doktori su jako ljubazni i razumiu svoj posao.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	1	Dr. Maja Jagodić Štimac se je kao vlasnica Štimac centra pokazala kao hladna, nezainteresirana i beskrupulozna osoba i liječnica.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	2	Nije ju sramota izmišljati i lagati u očitovanju Povjerenstvu za zaštitu prava pacijenata iako vrlo dobro zna da mi je protetika dobivena u njenoj poliklinici oštetila zubno meso, da sam prošla kalvariju boli u trajanju od nekoliko mjeseci a sve iz razloga da bi zaštitila sebe, svoju doktoricu Prpić i svog sina Filipa Štimca koje sam prijavila svim institucijama zaduženim za probleme sa stomatolozima.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	3	Slabo mi je od ovih kvazi oduševljenih komentatora koji nisu ništa drugo nego kupljene recenzije na koju gđa dr.Jagodić Štimac troši ogromne novce - niti jedna poliklinika nema toliko pozitivnih recenzija po mjesecu poput njezine na google a vidim i na ovom portalu jer joj je jako bitno da ona kao i njeni lječnici budu svaku godinu izabrani za " naj doktora "i da naivci poput mene povjeruju takvima , tako da molim sve da dobro razmisle kome će predati svoje zdravlje i novce u ruke jer možete ostati bez oboje !	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	4	i još 2 mala savjeta: 1.) ne budite naivni kao što sam bila ja i ne potpisujte nikakvu potvrdu da vas je doktor..... upoznao sa svim mogućim načinima liječenja koje vam daju da potpišete prije nego uopće uđete u ordinaciju na 1.pregled ;	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	5	2.) kada vam naprave protetiku i dok ste pod anestezijom pitaju da li je sve u redu a vi naravno ne možete osijećati ništa ni u ludilu ne potpisujte 2 obrasca za koje će vam reći da ih potpište odmah i da je to potvrda da ste protetiku koju ste dogovorili i dobili već im recite da želite prvo na miru prije potpisivanja pročitati što piše ( vjerujte, znam o čemu govorim )	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	483	6	I najvažnije - nemojte da vam samo zakažu nakon pvog pregleda termin kod nekog svog stomatologa a da vi ni ne znate tko je on / ona i za šta je specijaliziran jer je to vaše pravo kao pacijenta i ako vam se taj dr. ne učini ok. tražite isključivo doktora koji ima titulu specijalista za ono što odlučite raditi a ove koji se "usavršavaju" i dodatno "educiraju" izbjegnite u širokom luku jer od dr. Maje Jagodić Štimac u slučaju problema pomoć niti povrat novca nećete dobiti mirnim putem	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	508	1	Svaka čast i duboko poštovanje njenom predanom i nadasve stručnom radu.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	508	2	U poliklinici sam napravio nekoliko popravaka zubiju te jedan veći operativni zahvat i mogu reći da sam jednostavno prezadovoljan i s užitkom ću se vraćati u polikliniku.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	514	1	Vrhunski pristup pacijentima,vrhunski pregled i konzultacije,vrhunski medicinski tretman od pocetka do kraja.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	521	1	Doktorica Štimac je jedna od rijetkih doktora kojima je iskreno stalo do zdravlja ljudi.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	521	2	Doktori poput Maje Jagodić Štimac danas su zaista vrlo rijetki.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	521	3	Preporučujem ovu kliniku svima koji se dvoume između nekoliko klinika, kao što sam se i ja dvoumila i nisam požalila!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	521	4	Doktorica Štimac je odvojila vrijeme za mene i za sve moje nejasnoće, izašla mi je u susret i naposljetku mi je izradila prekrasne mostove koji su toliko kvalitetni da i nakon više od 10 godina izgledaju besprijekorno.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	521	5	Moj dojam i ocjena je 5+.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	1	Doktorica Maja gleda svaku osobu prvenstveno kao čovjeka a tek onda kao pacijenta.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	2	Živimo u Njemačkoj ali se uvijek vraćamo našoj doktorici Maji koja nam je podarila prekrasne osmijehe, suprugu i meni, te nas oslobodila od straha prema stomatolozima.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	3	Nježna, ljubazna, srdačna doktorica koja zna svoj posao i radi ga pedantno i sa ljubavlju.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	4	Termini su uvijek fleksibilni i prilagođeni nama, a čekanja u ordinaciji nema.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	5	Tretmani su bezbolni i brzi.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	6	Imamo samo riječi hvale prema našoj doktorici Maji i cijeloj ordinaciji.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	525	7	Lijepi pozdrav iz Frankfurta!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	526	1	Svima preporučujem dr. Maju jer je velika stručnjakinja u svom poslu i jako pristupačna i topla kao osoba, a to mi se posebno svidjelo.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	526	2	Za dr. Maju smo čuli preko preporuke koja je imala jako pohvalno iskustvo te smo se i mi odlučili posjetiti je.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	526	3	Suprug ima kompletno nove zube u čeljusti koji su besprijekorni, a ja sam trenutno u postupku radova tako da ću uskoro i ja zablistati, jedva čekam :)	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	526	4	Ordinacija je divna i uvijek čista, osoblje je uvijek nasmijano , a ja se u ordinaciji osjećam ugodno i opušteno.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	526	4	Ma sve je čista petica :)	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	1	Izuzetna stručnjakinja u svom poslu ali i veliki čovjek!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	2	Bila sam u nezavidnoj situaciji sa svojim zubima, nakon trudnoće sam se zapustila i to godinama...a strah od zubarskog stolca je dodatno pridonio tome....	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	3	Na preporuku drage prijateljice sam u strahu otišla na pregled a iz ordinacije sam otišla bez ikakvog straha!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	4	Doktorica je riješila moj problem sa zubima i općenito strahom od zubara.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	5	Sada sam presretna jer imam nove zube kojima sam oduševljena!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	528	6	Svaka pohvala dragoj doktorici Maji koja me spasila!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	538	1	Kod doktorice Štimac došla sam s problematičnim prednjim zubima odnosno s prva dva.	neutral
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	538	2	Jedan je počeo mijenjati boju, a na drugom su bila oštećenja.	neutral
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	538	3	Nakon što sam godinama bila nezadovoljna sa svojim osmijehom doktorica Štimac vratila je mojim ustima blistav osmijeh.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	538	4	Ne mogu vjerovati kako se sa samo dvije krunice može u potpunosti promijeniti izgled zubi!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	538	5	Hvala puno doktorici!	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	551	1	Neizmjerno sam zahvalna doktorici Maji na savršenom novom osmijehu.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	551	2	Moram priznati da sam se bojala ugradnje implantata, međutim zahvat je bio potpuno bezbolan i gotovo da ništa nisam osjetila.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	551	3	Doktorica je jako stručna, pruža sve potrebne informacije i vodi kroz cijeli postupak, tako da je moj strah nestao čim sam prvi put razgovarala s doktoricom Majom.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	553	1	Ovim putem bi zelio pohvaliti strucnost, rad i posvecenost dokotrice Maje.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	553	2	Izuzetno susretljiva i ugodna.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	553	3	Napokon ne osjecam bolove nakon dugogodišnje patnje.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	553	4	Hvala Vam.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	564	1	Prošli tjedan sam se prvi puta susrela sa doktoricom, a danas idem ponovo kod nje i moram reći da je doktorica izuzetno pristupačna i strpljiva.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	564	2	Imam inače strah od zubara tako da je doktorica pravo osvježenje jer je pokazala uistinu puno razumijevanja za mene i svakako planiram nastaviti dolaziti kod doktorice Maje.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	568	1	Svaka pohvala doktorici Štimac i njeno osoblju.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	568	2	Svakako ću se vratiti u ovu ordinaciju, a i preporučiti ju mnogima drugima.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	589	1	Prvi puta sam bila kod doktorice Maje prije pola godine.	neutral
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	589	2	Nedavno sam se odlučila raditi predložene zahvate i mogu reći da nikako nisam požalila.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	589	3	Radila sam cijeli gornji dio ljuskice i par krunica i sada imam osmijeh kakav sam oduvijek željela.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	589	4	Cijeli rad je bio jako brzo gotov, bezbolan, a doktori s kojima sam surađivala vrlo nježni i strpljivi.	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	589	5	Iako sam imala velika očekivanja za dr. Štimac i ordinaciju, rezultat je čak i premašio moja očekivanja. :)	positive
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	1	Vrlo sam se neugodno iznenadio svojim prvim posjetom Dr. Štimac.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	2	Iako sam telefonski nazvao i pitao o cijeni prvog pregleda rečeno mi je da je prvi pregled besplatan.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	3	Međutim za vrijeme pregleda Dr. Stimac je primjetila moju nelagodu koju opcenito imam prema zubarslim zahvatima.	neutral
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	4	Potom mi je rekla da si sredim stvari u svojoj glavi pa da se onda nakon toga vratim na sanaciju zubi.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	5	Iako kod mene nije bilo bas nikakve reakcije osim lagane nervoze ponjelo se prema meni kao prema paihopatu.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	6	Potom me pitala mislim li dogovoriti termin za zahvat, a kada sam rekao da cu jos malo razmisliti rekla mi je da pregled kosta 200 kuna i da se mora platiti.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	7	Medicinskoj sestri koja je ceka da platim sam rekao da mi je telefonski receno da je prvi pregled besplatan, međutim ona je samo klimnula glavom i rekla da je tako doktorica ovdje napisala i da se mora platiti.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	8	Jako neljubazno i neprofesionalno osoblje.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	9	Pogotovo sam bio jako iznenadjen doktoričinim postupkom koja umjesto da se potrudila makar se nasmijati i ublaziti nelagodu kod pregleda proglasila me luđakom i potjerala van iz ordinacije.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	613	10	Sve zahvate kasnije sam obavio kod drugog privatnog stomatologa bez ikakvih problema.	negative
+4	https://najdoktor.com/Maja-Jagodi%C4%87-%C5%A0timac,%20dr.med.dent/d10646	Maja Jagodić-Štimac	621	1	Izuzetno loše radi protetiku!	negative
