@@ -51,7 +51,7 @@ Korpus je podijeljen na skupove za treniranje, validaciju i testiranje u omjeru 
 # Strojno učenje
 Za klasifikaciju sentimenta korišten je XGBoost. Model je treniran nad velikim skupom koji se sastoji od 4 skupa za treniranje preuzetih od svih grupa, te zasebno nad train skupom vlastite grupe radi usporedbe rezultata.
 
-Evaluacija modela provedena je korištenjem metrika accuracy, precision, recall i F1-score. Rezultati se nalaze u datoteci [results.md]
+Evaluacija modela provedena je korištenjem metrika accuracy, precision, recall i F1-score. Rezultati se nalaze u datoteci [results.md](https://github.com/CorpusMasters/CorpusMasters/blob/f59a929c06674c9589b66d8230cc07e317fafb59/XGBoost%20machine%20learning/results.md).
 
 
 
