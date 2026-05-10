@@ -45,6 +45,13 @@ Annotation 3: Filip Jović
 
 Data curator: Toni Pernar ([xSentilytics](https://github.com/xSentilytics))
 
+# Train - test podjela
+Korpus je podijeljen na skupove za treniranje, validaciju i testiranje u omjeru 80%-10%-10%. Prilikom podjele vodilo se računa da cijele recenzije ostanu unutar istog skupa kako ne bi došlo do curenja podataka između skupova.
+
+# Strojno učenje
+Za klasifikaciju sentimenta korišten je XGBoost. Model je treniran nad velikim skupom koji se sastoji od 4 skupa za treniranje preuzetih od svih grupa, te zasebno nad train skupom vlastite grupe radi usporedbe rezultata.
+
+Evaluacija modela provedena je korištenjem metrika accuracy, precision, recall i F1-score. Rezultati se nalaze u datoteci [results.md]
 
 
 
