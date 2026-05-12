@@ -22,7 +22,7 @@
 
 ## Description
 
-The XGBoost machine learning tool achieved better performance when trained on the combined training datasets from all groups compared to using only our group's training set. This demonstrates that increasing the amount and diversity of training data improves the model’s performance and precision.
+The XGBoost machine learning tool achieved better performance when trained on the combined training dataset from all groups (TRAIN) compared to using only our group's training set (Train-4). This demonstrates that increasing the amount and diversity of training data improves the model’s performance and precision.
 
 Performance differences between test sets may be related to differences in annotation style and linguistic characteristics across datasets created by different groups.
 
