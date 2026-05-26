@@ -120,6 +120,6 @@ Confusion Matrix:
 
 ---
 
-# 🚀 Conclusion
+#  Conclusion
 
 The fine-tuned Gemma 2 2B IT model achieves strong performance on Croatian sentiment classification, with the best F1-score reaching **0.8820**. 
