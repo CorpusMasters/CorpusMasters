@@ -58,5 +58,7 @@ U sklopu projekta implementirani su modeli dubokog učenja **CNN** (Convolutiona
 
 # Transformeri
 Za transformer pristup korišten je **CroSloEngual BERT** model za klasifikaciju sentimenta, kao i generativni AI model **Gemma-2-2b-it**. Oba modela evaluirana su na više testnih skupova uz izračun confusion matrice i standardnih evaluacijskih metrika.
-
+Transformeri
+Detaljni rezultati dostupni su u datoteci:  
+[results.md](./results.md)
 
