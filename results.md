@@ -219,4 +219,4 @@ Sentiment classification on Croatian review dataset.
 
 # Conclusion
 
-BERT-base serves as a strong baseline for Croatian sentiment classification but is significantly outperformed by the Gemma 2 2B IT model, wh
+BERT-base serves as a strong baseline for Croatian sentiment classification but is significantly outperformed by the Gemma 2 2B IT model, which achieves higher accuracy and better overall class balance.
