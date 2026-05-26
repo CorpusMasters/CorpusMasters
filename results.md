@@ -123,72 +123,100 @@ Confusion Matrix:
 The fine-tuned Gemma 2 2B IT model achieves strong performance on Croatian sentiment classification, with the best F1-score reaching **0.8820**. 
 
 
- Fine-Tuning Results — BERT Base Model
- Task
+# Fine-Tuning Results — BERT Base Model
 
+## Task
 Sentiment classification on Croatian review dataset.
 
- Model
-Model: BERT-base-uncased
-Framework: Hugging Face Transformers
-Fine-tuning method: Supervised fine-tuning (SFT-style classification setup)
-Task type: Multi-class text classification
- Dataset
-Source: Croatian review dataset
-Input: text sentences
-Labels: sentiment classes
-Split:
-Train: 80%
-Validation: 10%
-Test: 10%
- Training Setup
-Optimizer: AdamW
-Loss: Cross-Entropy Loss
-Maximum sequence length: 128
-Batch size: 8–16 (depending on experiment)
-Epochs: 1–3
-Learning rate: 1e-5 – 3e-5
- Hyperparameter Experiments
-Test	Learning Rate	Batch Size	Epochs	Max Length	Accuracy	Precision	Recall	F1-score
-TEST 1	2e-5	8	1	128	0.7011	0.6046	0.7011	0.6485
-TEST 2	2e-5	16	2	128	0.7088	0.6180	0.7088	0.6602
-TEST 3	2e-5	16	3	128	0.7069	0.6143	0.7069	0.6573
- Best Model
-Best run: TEST 2 / TEST 3 (very close performance)
-Selected based on:
-Highest balanced F1-score
-Stable validation performance
-No major overfitting improvement after epoch 2–3
- Final Evaluation Results (Best Run)
-Metric	Score
-Accuracy	0.7088
-Precision	0.6180
-Recall	0.7088
-F1-score	0.6602
- Confusion Matrix (BERT)
-[[ 2 0 0 0]
- [ 1 45 3 2]
- [ 0 33 57 16]
- [ 0 7 3 222]]
- Observations
-BERT achieves moderate performance on Croatian sentiment classification.
-Model struggles with:
-minority classes
-class imbalance sensitivity
-Precision is lower than recall → model tends to over-predict dominant classes.
-Performance saturates after ~2 epochs (no major gains beyond this point).
- Comparison with Gemma 2 2B IT
-Model	Accuracy	Precision	Recall	F1-score
-BERT-base	0.7088	0.6180	0.7088	0.6602
-Gemma 2 2B IT	0.8852	0.8822	0.8852	0.8820
- Key Insight
-Gemma significantly outperforms BERT across all metrics.
-Improvement is especially strong in:
-precision (+0.26)
-F1-score (+0.22)
-This suggests:
-larger instruction-tuned models generalize better to Croatian sentiment tasks
-BERT is limited by smaller contextual capacity
- Conclusion
+---
 
-The BERT baseline achieves solid but limited performance on Croatian sentiment classification. While it provides a strong baseline (F1 ≈ 0.66), it is clearly outperformed by Gemma 2 2B IT, which demonstrates superior contextual understanding and class separation.
+## Model
+- Model: bert-base-uncased
+- Framework: Hugging Face Transformers
+- Fine-tuning method: Supervised fine-tuning (SFT-style classification setup)
+- Task type: Multi-class text classification
+
+---
+
+## Dataset
+- Source: Croatian review dataset
+- Input: text sentences
+- Labels: sentiment classes
+- Split:
+  - Train: 80%
+  - Validation: 10%
+  - Test: 10%
+
+---
+
+## Training Setup
+- Optimizer: AdamW
+- Loss function: Cross-Entropy Loss
+- Max sequence length: 128
+- Batch size: 8–16
+- Epochs: 1–3
+- Learning rate: 1e-5 to 2e-5
+
+---
+
+# Hyperparameter Experiments
+
+| Test | Learning Rate | Batch Size | Epochs | Max Length | Accuracy | Precision | Recall | F1-score |
+|------|--------------|------------|---------|------------|----------|-----------|--------|----------|
+| TEST 1 | 2e-5 | 8 | 1 | 128 | 0.7011 | 0.6046 | 0.7011 | 0.6485 |
+| TEST 2 | 2e-5 | 16 | 2 | 128 | 0.7088 | 0.6180 | 0.7088 | 0.6602 |
+| TEST 3 | 2e-5 | 16 | 3 | 128 | 0.7069 | 0.6143 | 0.7069 | 0.6573 |
+
+---
+
+# Best Model
+
+- Best run: TEST 2 (highest stable performance)
+- Selected based on:
+  - Best F1-score
+  - Stable validation performance
+  - No improvement after epoch 2–3
+
+---
+
+# Final Evaluation Results
+
+- Accuracy: 0.7088  
+- Precision: 0.6180  
+- Recall: 0.7088  
+- F1-score: 0.6602  
+
+---
+
+# Confusion Matrix
+
+
+[[ 2 0 0 0]
+[ 1 45 3 2]
+[ 0 33 57 16]
+[ 0 7 3 222]]
+
+
+---
+
+# Observations
+
+- Model performs reasonably well on majority classes.
+- Lower precision indicates some over-prediction of dominant classes.
+- Performance stabilizes after ~2 epochs.
+- Minor improvement beyond 2 epochs is negligible.
+
+---
+
+# Comparison with Gemma 2 2B IT
+
+| Model | Accuracy | Precision | Recall | F1-score |
+|------|----------|-----------|--------|----------|
+| BERT-base | 0.7088 | 0.6180 | 0.7088 | 0.6602 |
+| Gemma 2 2B IT | 0.8852 | 0.8822 | 0.8852 | 0.8820 |
+
+---
+
+# Conclusion
+
+BERT-base serves as a strong baseline for Croatian sentiment classification but is significantly outperformed by the Gemma 2 2B IT model, wh
