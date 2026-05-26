@@ -118,6 +118,35 @@ Confusion Matrix:
 - Slight overfitting observed in longer training runs (TEST 4).
 - Some confusion persists in minority classes.
 
+- # Model Evaluation Report
+
+## Model
+BERT (bert-base-uncased) fine-tuned for 5-class sentiment classification
+
+## Dataset
+TSV dataset with 5 classes:
+0, 1, 2, 3, 4
+
+## Results
+
+### Accuracy
+0.7355
+
+### Classification Report
+(attach or paste your output here)
+
+### Confusion Matrix
+[[  0   0   0   3   0]
+ [  0  64   0  29   0]
+ [  0  10   0  18   0]
+ [  0  12   0 139   0]
+ [  0   1   0   0   0]]
+
+## Observations
+- Model performs well on majority classes (1 and 3)
+- Poor performance on minority classes (0, 2, 4)
+- Dataset is highly imbalanced
+
 ---
 
 #  Conclusion
