@@ -118,6 +118,11 @@ Confusion Matrix:
 - Slight overfitting observed in longer training runs (TEST 4).
 - Some confusion persists in minority classes.
 
+  #  Conclusion
+
+The fine-tuned Gemma 2 2B IT model achieves strong performance on Croatian sentiment classification, with the best F1-score reaching **0.8820**. 
+
+
 - # Model Evaluation Report
 
 ## Model
@@ -146,9 +151,6 @@ TSV dataset with 5 classes:
 - Model performs well on majority classes (1 and 3)
 - Poor performance on minority classes (0, 2, 4)
 - Dataset is highly imbalanced
-
+- The dataset is highly imbalanced, which leads to poor performance on minority classes (0, 2, 4). The model is biased toward majority classes (1 and 3).
 ---
 
-#  Conclusion
-
-The fine-tuned Gemma 2 2B IT model achieves strong performance on Croatian sentiment classification, with the best F1-score reaching **0.8820**. 
