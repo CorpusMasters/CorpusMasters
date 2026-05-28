@@ -185,10 +185,10 @@ Weighted averaging was applied for multi-class metric computation.
 
 Evaluation Results
 ## TEST 1
-Accuracy: 0.6240
-Precision: 0.6429
-Recall: 0.6240
-F1-score: 0.5751
+- Accuracy: 0.6240
+- Precision: 0.6429
+- Recall: 0.6240
+- F1-score: 0.5751
 
 Confusion Matrix:
 
