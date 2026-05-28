@@ -151,6 +151,14 @@ Sentiment classification on Croatian medical review datasets.
   - Test: 10%
 
 ---
+## Hyperparameter Experiments
+
+| Test   | Learning Rate | Batch Size | Epochs | Max Length | Optimizer | Weight Decay | Accuracy | Precision | Recall | F1-score |
+|--------|--------------|------------|--------|------------|-----------|--------------|----------|-----------|--------|----------|
+| TEST 1 | 2e-5         | 8          | 3      | 128        | AdamW     | 0.01         | 0.6240   | 0.6429    | 0.6240 | 0.5751   |
+| TEST 2 | 3e-5         | 16         | 3      | 128        | AdamW     | 0.01         | 0.5583   | 0.5759    | 0.5583 | 0.5299   |
+| TEST 3 | 2e-5         | 16         | 4      | 128        | AdamW     | 0.01         | 0.7028   | 0.6578    | 0.7028 | 0.6696   |
+| TEST 4 | 1e-5         | 16         | 5      | 128        | AdamW     | 0.01         | 0.7572   | 0.7194    | 0.7572 | 0.7289   |
 
 ## Training Configuration
 
