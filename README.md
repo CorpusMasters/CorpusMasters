@@ -57,7 +57,7 @@ Evaluacija modela provedena je korištenjem metrika accuracy, precision, recall 
 U sklopu projekta implementirani su modeli dubokog učenja **CNN** (Convolutional Neural Network) i **RNN** (Recurrent Neural Network) arhitekture za obradu tekstualnih podataka i prepoznavanje obrazaca u recenzijama. Modeli su trenirani i evaluirani pomoću metrika accuracy, precision, recall i F1-score.
 
 # Transformeri
-Za transformer pristup korišten je **CroSloEngual BERT** model za klasifikaciju sentimenta, kao i generativni AI model **Gemma-2-2b-it**. Oba modela evaluirana su na više testnih skupova uz izračun confusion matrice i standardnih evaluacijskih metrika.
+Za transformer pristup korišten je **BERT-base-multilingual-cased** model za klasifikaciju sentimenta, kao i generativni AI model **Gemma-2-2b-it**. Oba modela evaluirana su na više testnih skupova uz izračun confusion matrice i standardnih evaluacijskih metrika.
 Transformeri
 Detaljni rezultati dostupni su u datoteci:  
 [results.md](./results.md)
