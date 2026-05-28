@@ -198,10 +198,10 @@ Confusion Matrix:
  [ 0, 27, 5, 200]]
 
 ## TEST 2
-Accuracy: 0.5583
-Precision: 0.5759
-Recall: 0.5583
-F1-score: 0.5299
+- Accuracy: 0.5583
+- Precision: 0.5759
+- Recall: 0.5583
+- F1-score: 0.5299
 
 Confusion Matrix:
 
@@ -211,10 +211,10 @@ Confusion Matrix:
  [ 0, 21, 1, 113]]
  
 ## TEST 3
-Accuracy: 0.7028
-Precision: 0.6578
-Recall: 0.7028
-F1-score: 0.6696
+- Accuracy: 0.7028
+- Precision: 0.6578
+- Recall: 0.7028
+- F1-score: 0.6696
 
 Confusion Matrix:
 
@@ -224,10 +224,10 @@ Confusion Matrix:
  [ 0, 53, 7, 311]]
 
 ## TEST 4
-Accuracy: 0.7572
-Precision: 0.7194
-Recall: 0.7572
-F1-score: 0.7289
+- Accuracy: 0.7572
+- Precision: 0.7194
+- Recall: 0.7572
+- F1-score: 0.7289
 
 Confusion Matrix:
 
