@@ -1,9 +1,8 @@
-from sklearn.metrics import confusion_matrix
-import matplotlib.pyplot as plt
-import seaborn as sns
-import json
+import pickle
+import pandas as pd
+import numpy as np
 
-from datasets import load_dataset
+from datasets import Dataset
 from transformers import (
     AutoTokenizer,
     AutoModelForSequenceClassification,
@@ -11,72 +10,83 @@ from transformers import (
     TrainingArguments,
     DataCollatorWithPadding
 )
-import numpy as np
-from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import accuracy_score, precision_recall_fscore_support
 
-# ----------------------------
-# 1. LOAD DATASET (YOUR FILE)
-# ----------------------------
-dataset = load_dataset(
-    "csv",
-    data_files="OPJ_korpus_anotiran_finalno.csv",
-    delimiter=";"
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import (
+    accuracy_score,
+    precision_recall_fscore_support
 )
 
-dataset = dataset["train"]
-
+# =========================
+# CONFIG
+# =========================
+TRAIN_FILE = "train.xlsx"
+MODEL_NAME = "bert-base-multilingual-cased"
+OUTPUT_MODEL_DIR = "./bert-opj-model"
 TEXT_COLUMN = "text"
 LABEL_COLUMN = "label"
 
-# ----------------------------
-# 2. ENCODE LABELS
-# ----------------------------
+# =========================
+# LOAD DATA
+# =========================
+def load_file(path):
+    if path.endswith(".csv"):
+        return pd.read_csv(path, encoding="utf-8-sig")
+    elif path.endswith(".xlsx"):
+        return pd.read_excel(path)
+    else:
+        raise ValueError(f"Unsupported format: {path}")
+
+train_df = load_file(TRAIN_FILE)
+
+# clean text/labels
+train_df[TEXT_COLUMN] = train_df[TEXT_COLUMN].astype(str)
+train_df[LABEL_COLUMN] = train_df[LABEL_COLUMN].astype(str).str.strip()
+
+# =========================
+# LABEL ENCODING
+# =========================
 label_encoder = LabelEncoder()
-dataset = dataset.add_column(
-    "labels",
-    label_encoder.fit_transform(dataset[LABEL_COLUMN])
-)
+train_df["labels"] = label_encoder.fit_transform(train_df[LABEL_COLUMN])
 
-dataset = dataset.remove_columns([LABEL_COLUMN])
+train_df = train_df.drop(columns=[LABEL_COLUMN])
 
-# ----------------------------
-# 3. TRAIN / TEST SPLIT
-# ----------------------------
-dataset = dataset.train_test_split(test_size=0.2, seed=42)
+dataset = Dataset.from_pandas(train_df)
 
-# ----------------------------
-# 4. TOKENIZER + MODEL
-# ----------------------------
-checkpoint = "bert-base-uncased"
-
-tokenizer = AutoTokenizer.from_pretrained(checkpoint)
+# =========================
+# TOKENIZER
+# =========================
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
 
 def tokenize(batch):
     return tokenizer(batch[TEXT_COLUMN], truncation=True)
 
 dataset = dataset.map(tokenize, batched=True)
 
+# =========================
+# MODEL
+# =========================
 model = AutoModelForSequenceClassification.from_pretrained(
-    checkpoint,
+    MODEL_NAME,
     num_labels=len(label_encoder.classes_)
 )
 
-# ----------------------------
-# 5. DATA COLLATOR
-# ----------------------------
-data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
+data_collator = DataCollatorWithPadding(tokenizer)
 
-# ----------------------------
-# 6. METRICS
-# ----------------------------
+# =========================
+# METRICS
+# =========================
 def compute_metrics(eval_pred):
     logits, labels = eval_pred
     preds = np.argmax(logits, axis=1)
 
     precision, recall, f1, _ = precision_recall_fscore_support(
-        labels, preds, average="weighted"
+        labels,
+        preds,
+        average="weighted",
+        zero_division=0
     )
+
     acc = accuracy_score(labels, preds)
 
     return {
@@ -86,77 +96,43 @@ def compute_metrics(eval_pred):
         "f1": f1
     }
 
-# ----------------------------
-# 7. TRAINING ARGS 
-# ----------------------------
+# =========================
+# TRAINING ARGS
+# =========================
 training_args = TrainingArguments(
     output_dir="./results",
-    eval_strategy="epoch",
-    save_strategy="epoch",
     learning_rate=2e-5,
     per_device_train_batch_size=8,
-    per_device_eval_batch_size=8,
-    num_train_epochs=3,
+    num_train_epochs=4,
     weight_decay=0.01,
-    logging_dir="./logs"
+    logging_dir="./logs",
+    save_strategy="epoch",
+    report_to="none"
 )
 
-# ----------------------------
-# 8. TRAINER 
-# ----------------------------
+# =========================
+# TRAINER
+# =========================
 trainer = Trainer(
     model=model,
     args=training_args,
-    train_dataset=dataset["train"],
-    eval_dataset=dataset["test"],
+    train_dataset=dataset,
     data_collator=data_collator,
     compute_metrics=compute_metrics
 )
 
-# ----------------------------
-# 9. TRAIN
-# ----------------------------
 trainer.train()
 
-# ----------------------------
-# 10. EVALUATE
-# ----------------------------
-print(trainer.evaluate())
+# =========================
+# SAVE MODEL + TOKENIZER
+# =========================
+model.save_pretrained(OUTPUT_MODEL_DIR)
+tokenizer.save_pretrained(OUTPUT_MODEL_DIR)
 
-# ----------------------------
-# 11. SAVE MODEL (FOR HUGGINGFACE)
-# ----------------------------
-model.save_pretrained("./bert-opj-model")
-tokenizer.save_pretrained("./bert-opj-model")
+# =========================
+# SAVE LABEL ENCODER
+# =========================
+with open("label_encoder.pkl", "wb") as f:
+    pickle.dump(label_encoder, f)
 
-# 12. CONFUSION MATRIX SAVING
-
-predictions = trainer.predict(dataset["test"])
-
-preds = np.argmax(predictions.predictions, axis=1)
-labels = predictions.label_ids
-
-cm = confusion_matrix(labels, preds)
-
-# Save matrix as JSON
-with open("confusion_matrix.json", "w") as f:
-    json.dump(cm.tolist(), f, indent=4)
-
-# Plot image
-plt.figure(figsize=(8,6))
-
-sns.heatmap(
-    cm,
-    annot=True,
-    fmt="d",
-    cmap="Blues"
-)
-
-plt.title("Confusion Matrix - BERT")
-plt.xlabel("Predicted")
-plt.ylabel("Actual")
-
-plt.savefig("confusion_matrix.png")
-plt.close()
-
-print("Confusion matrix saved.")
+print("Training complete. Model + encoder saved.")
