@@ -133,7 +133,7 @@ Sentiment classification on Croatian medical review datasets.
 
 ## Model
 
-* Model: BERT Base Uncased
+* Model: BERT-base-multilingual-cased
 * Framework: Hugging Face Transformers
 * Fine-tuning method: Supervised fine-tuning for sequence classification
 * Task type: Multi-class text classification
@@ -156,7 +156,7 @@ Sentiment classification on Croatian medical review datasets.
 
 | Parameter       | Value                              |
 | --------------- | ---------------------------------- |
-| Base checkpoint | `bert-base-uncased`                |
+| Base checkpoint | `bert-base-multilingual-cased`                |
 | Epochs          | 4                                  |
 | Learning rate   | 2e-5                               |
 | Batch size      | 8                                  |
