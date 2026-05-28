@@ -58,7 +58,14 @@ U sklopu projekta implementirani su modeli dubokog učenja **CNN** (Convolutiona
 
 # Transformeri
 Za transformer pristup korišten je **BERT-base-multilingual-cased** model za klasifikaciju sentimenta, kao i generativni AI model **Gemma-2-2b-it**. Oba modela evaluirana su na više testnih skupova uz izračun confusion matrice i standardnih evaluacijskih metrika.
-Transformeri
+
+# Implementacija modela
+
+Fine-tunirani BERT model za klasifikaciju sentimenta učitan je na Hugging Face platformu radi ponovne uporabe i mogućnosti reprodukcije rezultata.
+
+🔗 Hugging Face model:  
+https://huggingface.co/CorpusMasters/bert-sentiment-project
+
 Detaljni rezultati dostupni su u datoteci:  
 [results.md](./results.md)
 
