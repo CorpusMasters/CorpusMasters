@@ -5,7 +5,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import (
     accuracy_score,
-    precision_recall_fscore_support
+    precision_recall_fscore_support,
+    confusion_matrix
 )
 
 from xgboost import XGBClassifier
@@ -73,11 +74,19 @@ def evaluate(test_df, test_name):
         zero_division = 0
     )
 
+    cm = confusion_matrix(
+        y_test_encoded,
+        predictions
+    )
+
     print(f"\n===== {test_name} =====")
     print("Accuracy :", round(accuracy, 4))
     print("Precision:", round(precision, 4))
     print("Recall   :", round(recall, 4))
     print("F1-score :", round(f1, 4))
+
+    print("\nConfusion Matrix:")
+    print(cm)
 
 evaluate(test1_df, "TEST 1")
 evaluate(test2_df, "TEST 2")
